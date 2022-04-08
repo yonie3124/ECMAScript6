@@ -195,7 +195,7 @@ let message1 = (login == 'Employee')? Hello
 
 console.log(message1)
 
-
+// the answer for number:8
 login = ('Director');
 let message2=(login == 'Employee')? 'Hello': (login == 'Director')?  'Greetings':(login == '')?'No login':'';
 console.log((message2))
